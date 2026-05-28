@@ -15,7 +15,7 @@
 </h3>
 
 <h3 align="center">
-  <a href="https://flipperzero.one">Flipper Zero</a> 장치에 대한 멋진 리소스 모음입니다.<br><br>
+  <a href="https://flipperzero.one">Flipper Zero</a> 장치에 대한 멋진 문서 모음입니다.<br><br>
   <a href="#">
     <img src="https://awesome.re/badge.svg" alt="Awesome" height=24>
     <img src="https://img.shields.io/badge/Powered%20by-Dolphins-blue" alt="Powered by dolphins" height=24>
