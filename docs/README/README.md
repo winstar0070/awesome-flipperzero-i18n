@@ -10,7 +10,8 @@
   <a href="README.md" style="color: #ffffff;" >English</a> | 
   <a href="README.zh-CN.md">中文</a> | 
   <a href="README.ja-JP.md">日本語</a> | 
-  <a href="README.ru_RU.md">Русский</a>
+  <a href="README.ru_RU.md">Русский</a> | 
+  <a href="README.ko-KR.md">한국어</a>
 </h3>
 
 <h3 align="center">

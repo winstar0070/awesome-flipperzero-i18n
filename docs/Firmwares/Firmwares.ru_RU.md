@@ -3,7 +3,8 @@
   <a href="Firmwares.md">English</a> | 
   <a href="Firmwares.zh-CN.md">中文</a> | 
   <a href="Firmwares.ja-JP.md">日本語</a> | 
-  <a href="Firmwares.ru_RU.md" style="color: #ffffff;">Русский</a>
+  <a href="Firmwares.ru_RU.md" style="color: #ffffff;">Русский</a> | 
+  <a href="Firmwares.ko-KR.md">한국어</a>
 </h3>
 <h3>
     <code>::</code> Последнее обновление 11 марта 2024 года. <code>::</code>
